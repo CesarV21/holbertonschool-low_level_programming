@@ -6,6 +6,7 @@
  *
  * Return: Always EXIT_SUCCESS
  */
+
 int main(void)
 {
         int n;
