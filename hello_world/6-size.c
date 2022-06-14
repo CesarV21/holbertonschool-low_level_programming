@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
 *
-*main - print size    
+*main - print size
 *
-*Return: Always  (Success) 
+*Return: Always
 */
 int main(void)
 {
