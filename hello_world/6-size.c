@@ -1,24 +1,20 @@
-#include<stdio.h>
-/**
- * 
- *that prints the size of various types on the comput
- * 
- */
-int main() {
-    int intType;
-    float floatType;
-    char charType;
-    long int longtype;
-    long long lolongtype;
-
-
-    // sizeof evaluates the size of a variable
-    printf("Size of int: %zu bytes\n", sizeof(intType));
-    printf("Size of float: %zu bytes\n", sizeof(floatType));
-    printf("Size of double: %zu bytes\n", sizeof(doubleType));
-    printf("Size of char: %zu byte\n", sizeof(charType));
-    printf("Size of longType: %zu byte\n", sizeof(longType;));
-    printf("Size of lolongType: %zu byte\n", sizeof(lolongtType;));
-
-    return 0;
+#include <stdio.h>                                                                                                                                                        
+/**                                                                                                                                                                       
+ * main - print size                                                                                                                                                      
+ *                                                                                                                                                                        
+ * Return: Always 0 (Success)                                                                                                                                             
+ */                                                                                                                                                                       
+int main(void)                                                                                                                                                            
+{                                                                                                                                                                         
+char chartype;                                                                                                                                                            
+int inttype;                                                                                                                                                              
+long int longinttype;                                                                                                                                                     
+long long int longlonginttype;                                                                                                                                            
+float floattype;                                                                                                                                                          
+printf("Size of char: %zu byte(s)\n", sizeof(chartype));                                                                                                                  
+printf("Size of int: %zu byte(s)\n", sizeof(inttype));                                                                                                                    
+printf("Size of long int: %zu byte(s)\n", sizeof(longinttype));                                                                                                           
+printf("Size of long long int: %zu byte(s)\n", sizeof(longlonginttype));                                                                                                  
+printf("Size of float: %zu byte(s)\n", sizeof(floattype));                                                                                                                
+return (0);                                                                                                                                                               
 }
