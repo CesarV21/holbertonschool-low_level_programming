@@ -1,8 +1,9 @@
 #include <stdio.h>
-/**                           
+/**
+*
 *main - print size    
 *
-*Return: Always 0 (Success) 
+*Return: Always  (Success) 
 */
 int main(void)
 {
