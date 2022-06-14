@@ -5,11 +5,11 @@
  * Return: Always 0 (Success)
  */
 int main(void) {
-    char charType;
-    int intType;
-    long int longitType;
-    long long int longlongintType;
-    float floatType;
+    char chartype;
+    int inttype;
+    long int longittype;
+    long long int longlonginttype;
+    float floattype;
 
     // sizeof evaluates the size of a variable
     printf("Size of a char: %zu byte(s)\n", sizeof(chartype));
