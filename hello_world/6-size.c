@@ -17,8 +17,8 @@ int main() {
     printf("Size of float: %zu bytes\n", sizeof(floatType));
     printf("Size of double: %zu bytes\n", sizeof(doubleType));
     printf("Size of char: %zu byte\n", sizeof(charType));
-    printf("Size of char: %zu byte\n", sizeof(longtype;));
-    printf("Size of char: %zu byte\n", sizeof(lolongtype;));
+    printf("Size of longType: %zu byte\n", sizeof(longType;));
+    printf("Size of lolongType: %zu byte\n", sizeof(lolongtType;));
 
     return 0;
-}i
+}
