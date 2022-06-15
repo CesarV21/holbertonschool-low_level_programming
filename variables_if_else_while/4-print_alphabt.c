@@ -9,12 +9,11 @@ int main(void)
 {
 	char c;
 
-	for (c = 97 ; c < 123 ; c++)
-	{
-		if (c != 101 && c != 113)
+	for (c = 97 ; c < 123 ; c++);
+
+	if (c != 101 || c != 113)
 			c++;
 		putchar(c);
-	}
 
 	return (0);
 }
