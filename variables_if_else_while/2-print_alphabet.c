@@ -10,7 +10,7 @@ int main(void){
 	char letra = 'a';
 
 	do{
-	printf("%c.\n", letra);
+	putchar(letra);
 	letra++;
 	}while(letra<='z');
 	
