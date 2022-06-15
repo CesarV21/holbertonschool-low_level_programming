@@ -8,7 +8,6 @@
 int main(void){
 	
 	char letra = 'a';
-
 	do{
 	putchar(letra);
 	letra++;
