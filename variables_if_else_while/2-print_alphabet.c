@@ -13,7 +13,7 @@ char abc = 'a';
 while (abc <= 'z')
 {
 putchar(abc);
-(abc++);
+(abc+);
 }
 return (0);
 }
