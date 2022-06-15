@@ -6,8 +6,5 @@
  */
 int main(void)
 {
-	int();
-	{printf("a..b\n");
-	putc(caracter1,stdout);
-	return (0);	
+int putchar("a..b");
 }
