@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
  *main - print the alphabet
@@ -13,5 +15,5 @@ while (abc <= 'z')
 putchar(abc);
 abc++;
 }
-return(0);
+return (0);
 }
