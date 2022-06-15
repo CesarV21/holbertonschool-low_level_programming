@@ -1,19 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- * main - the function print the alphabet in minus
- * Return: 0
+ *main - print the alphabet
+ *
+ *Return: return zero
  */
+
 int main(void)
 {
-	char c;
-
-	for (c = 97 ; c < 123 ; c++);
-
-	if (c != 101 || c != 113)
-			c++;
-		putchar(c);
-
-	return (0);
+char abc = 'a';
+while (abc <= 'z')
+{
+	if (abc == 'e' && abc != 'q')
+putchar(abc);
+abc++;
+}
+putchar('\n');
+return (0);
 }
