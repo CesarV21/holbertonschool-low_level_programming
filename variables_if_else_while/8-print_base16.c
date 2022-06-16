@@ -5,7 +5,8 @@
 *Return: 0
 */
 
-int main(void){int c = 'a';
+int main(void)
+{int c = 'a';
 int n;
 for (n = 48; n <= 57; n++)
 putchar (n);
