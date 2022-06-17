@@ -1,8 +1,9 @@
 #include "main.h"
 /**
-* prints _putchar
+* prints
 *
-* Return: Always 1.
+* Return Always
+* 
 * */
 int _putchar(int);
 int main(void)
