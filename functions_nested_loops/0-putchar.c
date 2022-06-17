@@ -5,7 +5,6 @@
 * Return: Always 1.
 * int
 */
-
 int _putchar(int);
 int main(void)
 {
