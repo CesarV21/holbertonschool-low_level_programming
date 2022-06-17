@@ -1,8 +1,7 @@
 #include "main.h"
 /**
-* 
-* - prints _putchar
-*   
+* prints _putchar
+*
 * Return: Always 1.
 * */
 int _putchar(int);
