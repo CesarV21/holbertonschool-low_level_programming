@@ -1,7 +1,6 @@
 #include "main.h"
 /**
-*
-*_putchar - function 
+*_putchar - function
 * main - prints _putchar
 * Return: Always 1.
 * int
@@ -19,6 +18,7 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
+_putchar('\n');
 
 return (0);
 }
