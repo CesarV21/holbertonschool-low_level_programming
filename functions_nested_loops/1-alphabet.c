@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* main - putchar
-* Description: print
-* Return: On sucess 1
+* void print_alphabet
+* Description: print alphabet
+* Return:
 * @void: print alphabet
 */
 
