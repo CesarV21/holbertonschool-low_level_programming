@@ -2,7 +2,7 @@
 /**
 * print_alphabet - prints
 * Description: print alphabet
-* Return: on success 
+* Return: on success
 * @void: print alphabet
 */
 
