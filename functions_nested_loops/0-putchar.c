@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *
- * main _putchar
- * 
- * int
- */
+*
+* main - _putchar
+*
+* int
+*/
 int _putchar(int);
 int main(void)
 {
