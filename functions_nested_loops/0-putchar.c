@@ -2,8 +2,8 @@
 /**
 * main - putchar
 *
-* return 
-* @int
+* Return: always 0
+* @int: int
 */
 int _putchar(int);
 int main(void)
