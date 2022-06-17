@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-* prints
-*
-* Return Always
-* 
-* */
+ *
+ * main _putchar
+ * 
+ * int
+ */
 int _putchar(int);
 int main(void)
 {
