@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *_abs - print number_absolute 
+ *_abs - print number_absolute
  *Descrption: print absolute
  *Return: On success 1
- *@number_absolute 
+ *@number_absolute: show the number absolute
  */
 int _abs(int number_absolute)
 {
