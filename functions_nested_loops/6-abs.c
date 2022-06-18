@@ -4,11 +4,11 @@
 *Return: always the number_absolute
 *number_absolute
 */
-int _abs(int number_absolute)
+int _abs(int na)
 {
-if (number_absolute < 0)
+if (na < 0)
 {
-return (number_absolute * -1);
+return (na * -1);
 }
-return (number_absolute);
+return (na);
 }
