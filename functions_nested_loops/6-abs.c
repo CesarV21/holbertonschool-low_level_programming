@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *print_sign - print the 1 when is mayus or 0 when is lower
- *@n: this is variable of alphabet
+ *this function _abs prints number_absolute
+ *@n: this is number_absolute
  *Return: retorna 1 o 0 si no
  */
 
