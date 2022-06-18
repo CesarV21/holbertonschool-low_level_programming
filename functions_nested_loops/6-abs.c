@@ -1,10 +1,9 @@
 #include "main.h"
 /**
- * bs - the function for returna absoluto
- *number _absolute: number abolute
- *Return: return the valor absolute
+ *fuctions _abs
+ *@n: this function prints number absolute
+ *Return: retorna number absolute
  */
-
 int _abs(int number_absolute)
 {
 if (number_absolute < 0)
