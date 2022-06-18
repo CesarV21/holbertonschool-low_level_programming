@@ -1,11 +1,11 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - funtion print alphabe
-* Descrption: print
+* print_number_absolute  - funtion print number_absolute 
+* Descrption: print absolute
 * Return: On success 1
-* @void: print alphabetx10
+* @void: print number_absolute 
 */
-int _abs (int number_absolute)
+int _abs(int number_absolute)
 {
 if (number_absolute < 0)
 {
