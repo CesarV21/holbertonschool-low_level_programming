@@ -2,7 +2,7 @@
 /**
 * _abs(int number_absolute)
 *Return: always the number_absolute
-*number_absolute
+* na: umber_absolute
 */
 int _abs(int na)
 {
