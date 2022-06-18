@@ -5,7 +5,7 @@
 * Return: On success 1
 * @void: print alphabetx10
 */
-int _abs(int number_absolute)
+int _abs (int number_absolute)
 {
 if (number_absolute < 0)
 {
