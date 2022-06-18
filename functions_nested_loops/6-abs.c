@@ -1,9 +1,9 @@
 #include "main.h"
- /**
- *print_number_absolute  - funtion print number_absolute 
+/**
+ *_abs - print number_absolute 
  *Descrption: print absolute
  *Return: On success 1
- *@void: print number_absolute 
+ *@number_absolute 
  */
 int _abs(int number_absolute)
 {
