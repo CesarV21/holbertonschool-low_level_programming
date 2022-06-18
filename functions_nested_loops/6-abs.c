@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * int _abs(int number_absolute)
- *
- * Return: always the number_absolute
- */
+* _abs(int number_absolute)
+*Return: always the number_absolute
+*number_absolute
+*/
 int _abs(int number_absolute)
 {
 if (number_absolute < 0)
