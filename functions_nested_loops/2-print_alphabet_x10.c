@@ -2,7 +2,7 @@
 #include "main.h"
 /**
 * print_alphabet - prints
-* print_alphabet_x1
+* 2-main.c
 * Return: on success
 * @void: print alphabet tem times
 */
