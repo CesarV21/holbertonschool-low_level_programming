@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - check the code.
+* print_alphabet - show the alphabe ten times
 *
 * Return: Always
 * @void:print_alphabet_x10
@@ -13,7 +13,7 @@ char c;
 {
 for (c = 'a'; c <= 'z'; c++)
 
-_putchar(c);
+_putchar(c*10);
 }
 _putchar('\n');
 }
