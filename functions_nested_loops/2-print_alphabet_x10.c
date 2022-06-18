@@ -1,29 +1,23 @@
+#include <unistd.h>
 #include "main.h"
+
 /**
-* print_alphabet - show the alphabet ten times
-* Desciption: alphabet ten time
-* Return: Always
-* @void:print_alphabet_x10
-*/
-
-void print_alphabet_x10(void)
-int main()
-
-
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-print_alphabet(void);
-{
-_putchar(abc)
-}
-_putchar('\n')
-return(0);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+    void print_alphabet(void);
+
+    return (0);
 }
