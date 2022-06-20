@@ -12,7 +12,7 @@ int z;
 int x;
 z = 0;
 x = z % 10;
-if (x > 45)
+if (z > 45)
 {
 _putchar(x);
 }
