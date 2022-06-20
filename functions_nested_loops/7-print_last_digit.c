@@ -9,7 +9,6 @@
 int print_last_digit(int z)
 {
 int x = z % 10;
-
 if (z >= 45)
 {
 _putchar(x);
