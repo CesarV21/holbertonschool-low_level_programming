@@ -1,13 +1,16 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
- * main - check the code.
- *
- * Return: Always 0.
- */
-int main(void)
+*_isupper - check the caracter
+*@c:imput
+*Return: 1 if c is uppercasa, 0 if not
+*/
+
+int _isupper(int c)
+
 {
-   int _isupper(int c);
-    return (0);
+if ((c >= 'A') && (c <= 'Z'))
+
+return (1);
+
+return (0);
 }
